@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<pokoje>
+    <pokoj>
+        <nr>0x0</nr>
+        <opis>To jest pokój startowy.</opis>
+        <obecnosc></obecnosc>
+    </pokoj>
+    <pokoj>
+        <nr>0x1</nr>
+        <opis>To pokoj drugi</opis>
+
+    </pokoj>
+    
+</pokoje>
